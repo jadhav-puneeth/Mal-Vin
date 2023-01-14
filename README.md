@@ -40,8 +40,9 @@ Follow the below steps to run the app on your local server.
   npm i multer
   npm i mongoose
 ```
+5.Create a folder with name `images` in statics folder to store uplodaded images.
 
-5.Run the command `node index.js` to run on your local browser.
+6.Run the command `node index.js` to run on your local browser.
 
 **Note:** increase the timer in setTimeout in control.js file if any error in detecting the type of the malware. 
 
