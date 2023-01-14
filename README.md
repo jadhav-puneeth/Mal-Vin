@@ -16,7 +16,7 @@ There different types of malware like:
 - #### ADWARE: hides on your device and serves you advertisements.
 - #### SPYWARE: collects information 
 
-This porject allows users to upload an image and detect the type of malware and its family.
+This project allows users to upload an image and detect the type of malware and its family.
     
 
 ## Installation
@@ -29,15 +29,21 @@ Follow the below steps to run the app on your local server.
 ```
 2.Run command `npm install` to install all the packages.
 
-3.You need to install following modules in your local system using
+3.You need to install following modules in your local system using pip
 ```bash
   pip install tensorflow
   pip install numpy
   pip install pillow
 ```
-4.Run the command `node index.js` to run on your local browser.
+4.Install mongoose and multer using the following commands
+```bash
+  npm i multer
+  npm i mongoose
+```
 
-**Note:** increase the timer in setTimeout in control.js file if any error. 
+5.Run the command `node index.js` to run on your local browser.
+
+**Note:** increase the timer in setTimeout in control.js file if any error in detecting the type of the malware. 
 
     
 ## Contact
