@@ -35,7 +35,8 @@ Follow the below steps to run the app on your local server.
   pip install numpy
   pip install pillow
 ```
-4.Run the command `node indes.js` to run on your local browser.
+4.Run the command `node index.js` to run on your local browser.
+
 **Note:** increase the timer in setTimeout in control.js file if any error. 
 
     
