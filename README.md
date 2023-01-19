@@ -44,7 +44,7 @@ Follow the below steps to run the app on your local server.
 
 6.Run the command `node index.js` to run on your local browser.
 
-**Note:** increase the timer in setTimeout in control.js file if any error in detecting the type of the malware. 
+**Note:** increase the timer in setTimeout in control.js file if it is redirecting to upload page while detecting. 
 
     
 ## Contact
