@@ -23,9 +23,9 @@ This project allows users to upload an image and detect the type of malware and 
 
 Follow the below steps to run the app on your local server.
 
-1.Clone the mentioned repository.(https://github.com/NitinReddy01/Mal-Vin.git) 
+1.Clone the mentioned repository.(https://github.com/jadhav-puneeth/Mal-Vin.git) 
 ```bash
-  git clone https://github.com/NitinReddy01/Mal-Vin.git
+  git clone https://github.com/jadhav-puneeth/Mal-Vin.git
 ```
 2.Run command `npm install` to install all the packages.
 
@@ -49,7 +49,7 @@ Follow the below steps to run the app on your local server.
     
 ## Contact
 
-Nitin Reddy Gougla - nitingogula@gmail.com
+Puneeth Kumar Jadhav - jadhavpuneeth@gmail.com
 
-project link -https://github.com/NitinReddy01/Mal-Vin 
+project link -https://github.com/jadhav-puneeth/Mal-Vin 
 
